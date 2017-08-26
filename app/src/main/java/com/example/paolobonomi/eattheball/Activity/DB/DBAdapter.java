@@ -187,6 +187,8 @@ public class DBAdapter {
 
     public void populateShopList(){
         try{
+
+            //ID, NAME, COST, BUY, EQUIP
             insertItem(new ShopItem(0, "default", 0, 1, 1, this.context));
             insertItem(new ShopItem(1, "viola", 100, 0, 0, this.context));
             insertItem(new ShopItem(2, "blu", 100, 0, 0, this.context));

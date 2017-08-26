@@ -51,6 +51,7 @@ public class ShopAdapter extends ArrayAdapter<ShopItem> {
 
         //SET IMAGE
         final ImageView image = (ImageView) convertView.findViewById(R.id.shop_image);
+        image.setImageResource(GameContract.SHOP_IMAGES[item.getId()]);
 
         //SET BUTTON BUY
         final Button button_buy = (Button) convertView.findViewById(R.id.shop_buy);
