@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova4.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova4.png"
+    },
+    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
@@ -8,12 +12,12 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e16.png"
     },
     {
-        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_bg.xml"
-    },
-    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/player9.png",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/player9.png"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/e5.png",
@@ -56,6 +60,10 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e15.png"
     },
     {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova5.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova5.png"
+    },
+    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/e4.png",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e4.png"
     },
@@ -68,12 +76,12 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_tile_bg.xml"
-    },
-    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/e6.png",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e6.png"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/e29.png",
@@ -96,6 +104,10 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e3.png"
     },
     {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova10.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova10.png"
+    },
+    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/player1.png",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/player1.png"
     },
@@ -108,12 +120,20 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_bg_low.xml"
     },
     {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova9.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova9.png"
+    },
+    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova6.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova6.png"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/e24.png",
@@ -148,12 +168,24 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova3.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova3.png"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova1.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova1.png"
+    },
+    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/e19.png",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e19.png"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova7.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova7.png"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/player0.png",
@@ -204,12 +236,16 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/player5.png",
-        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/player5.png"
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova12.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova12.png"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/e14.png",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e14.png"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/player5.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/player5.png"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
@@ -228,6 +264,10 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e7.png"
     },
     {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova2.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova2.png"
+    },
+    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_textfield_search_material.xml"
     },
@@ -236,8 +276,16 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e18.png"
     },
     {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova8.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova8.png"
+    },
+    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/prova11.png",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/prova11.png"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/e26.png",
@@ -304,12 +352,12 @@
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/e28.png",
         "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/drawable/e28.png"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",

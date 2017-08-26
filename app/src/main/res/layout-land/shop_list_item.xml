@@ -10,8 +10,7 @@
         android:layout_weight="1"
         android:layout_height="match_parent"
         android:id="@+id/shop_image"
-        android:src="@drawable/player0"
-        android:scaleType="centerCrop"
+        android:src="@drawable/prova0"
         android:adjustViewBounds="false" />
 
     <Button

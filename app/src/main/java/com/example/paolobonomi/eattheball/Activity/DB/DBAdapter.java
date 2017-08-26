@@ -188,18 +188,18 @@ public class DBAdapter {
     public void populateShopList(){
         try{
             insertItem(new ShopItem(0, "default", 0, 1, 1, this.context));
-            insertItem(new ShopItem(1, "Occhiali", 100, 0, 0, this.context));
-            insertItem(new ShopItem(2, "palla 8", 100, 0, 0, this.context));
-            insertItem(new ShopItem(3, "micio", 0, 0, 0, this.context));
-            insertItem(new ShopItem(4, "bocca", 15, 0, 0, this.context));
-            insertItem(new ShopItem(5, "occhiali gold", 777, 0, 0, this.context));
-            insertItem(new ShopItem(6, "6", 10, 0, 0, this.context));
-            insertItem(new ShopItem(7, "7", 10, 0, 0, this.context));
-            insertItem(new ShopItem(8, "8", 10, 0, 0, this.context));
-            insertItem(new ShopItem(9, "9", 10, 0, 0, this.context));
-            insertItem(new ShopItem(10, "10", 100, 0, 0, this.context));
-            insertItem(new ShopItem(11, "11", 100, 0, 0, this.context));
-            insertItem(new ShopItem(12, "12", 100, 0, 0, this.context));
+            insertItem(new ShopItem(1, "viola", 100, 0, 0, this.context));
+            insertItem(new ShopItem(2, "blu", 100, 0, 0, this.context));
+            insertItem(new ShopItem(3, "verde", 100, 0, 0, this.context));
+            insertItem(new ShopItem(4, "gialla", 100, 0, 0, this.context));
+            insertItem(new ShopItem(5, "viola scuro", 100, 0, 0, this.context));
+            insertItem(new ShopItem(6, "nera", 100, 0, 0, this.context));
+            insertItem(new ShopItem(7, "fire", 250, 0, 0, this.context));
+            insertItem(new ShopItem(8, "hippy", 250, 0, 0, this.context));
+            insertItem(new ShopItem(9, "gatto", 500, 0, 0, this.context));
+            insertItem(new ShopItem(10, "terra", 500, 0, 0, this.context));
+            insertItem(new ShopItem(11, "psico", 1000, 0, 0, this.context));
+            insertItem(new ShopItem(12, "invisibile", 1500, 0, 0, this.context));
         } catch ( Exception e ) { e.printStackTrace(); }
     }
 

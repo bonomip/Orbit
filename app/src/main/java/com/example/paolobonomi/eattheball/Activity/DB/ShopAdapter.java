@@ -47,17 +47,10 @@ public class ShopAdapter extends ArrayAdapter<ShopItem> {
 
         final ShopItem item = super.getItem(pos);
 
+        ///cambiare immagini prova 0......12
 
         //SET IMAGE
         final ImageView image = (ImageView) convertView.findViewById(R.id.shop_image);
-
-        try {
-            image.setImageResource(parent.getResources().getIdentifier(
-                    GameContract.PLAYER_SKIN_FILE_NAME + String.valueOf(item.getId()),
-                    "drawable",
-                    parent.getContext().getPackageName()));
-        } catch (Exception e ) { e.printStackTrace(); }
-
 
         //SET BUTTON BUY
         final Button button_buy = (Button) convertView.findViewById(R.id.shop_buy);
@@ -124,6 +117,7 @@ public class ShopAdapter extends ArrayAdapter<ShopItem> {
                     c.getInt(c.getColumnIndex(DBContract.ShopList.COLUMN_NAME_EQUIP)),
                     context
             );
+            //add item to list
             items.add(0, item);
             c.moveToNext();
         }

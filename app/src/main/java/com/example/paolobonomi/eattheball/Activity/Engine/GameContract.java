@@ -123,4 +123,21 @@ public abstract class GameContract {
             Color.parseColor("#0000FF"),
             Color.parseColor("#9F00FF")
     };
+
+    //SHOP IMAGES
+    public static final int[] SHOP_IMAGES = {
+            R.drawable.prova0,
+            R.drawable.prova1,
+            R.drawable.prova2,
+            R.drawable.prova3,
+            R.drawable.prova4,
+            R.drawable.prova5,
+            R.drawable.prova6,
+            R.drawable.prova7,
+            R.drawable.prova8,
+            R.drawable.prova9,
+            R.drawable.prova10,
+            R.drawable.prova11,
+            R.drawable.prova12
+    };
 }

@@ -1872,8 +1872,8 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f020076;
         public static final int notification_bg_normal_pressed=0x7f020077;
         public static final int notification_icon_background=0x7f020078;
-        public static final int notification_template_icon_bg=0x7f020088;
-        public static final int notification_template_icon_low_bg=0x7f020089;
+        public static final int notification_template_icon_bg=0x7f020095;
+        public static final int notification_template_icon_low_bg=0x7f020096;
         public static final int notification_tile_bg=0x7f020079;
         public static final int notify_panel_notification_icon_bg=0x7f02007a;
         public static final int player0=0x7f02007b;
@@ -1889,6 +1889,19 @@ containing a value of this type.
         public static final int player7=0x7f020085;
         public static final int player8=0x7f020086;
         public static final int player9=0x7f020087;
+        public static final int prova0=0x7f020088;
+        public static final int prova1=0x7f020089;
+        public static final int prova10=0x7f02008a;
+        public static final int prova11=0x7f02008b;
+        public static final int prova12=0x7f02008c;
+        public static final int prova2=0x7f02008d;
+        public static final int prova3=0x7f02008e;
+        public static final int prova4=0x7f02008f;
+        public static final int prova5=0x7f020090;
+        public static final int prova6=0x7f020091;
+        public static final int prova7=0x7f020092;
+        public static final int prova8=0x7f020093;
+        public static final int prova9=0x7f020094;
     }
     public static final class id {
         public static final int action0=0x7f0c00aa;

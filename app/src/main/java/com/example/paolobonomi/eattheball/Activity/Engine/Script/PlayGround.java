@@ -12,6 +12,8 @@ package com.example.paolobonomi.eattheball.Activity.Engine.Script;
 *
  */
 
+import org.jbox2d.common.Vec2;
+
 public abstract class PlayGround {
 
     private static int heigth;
@@ -42,8 +44,16 @@ public abstract class PlayGround {
             for(int j = 0; j < matrix[0].length; j++ )
                 matrix[i][j] = 1;
     }
+/*
+    private static int[] convertPos(Vec2 pos){
+        int[] index_pos;
 
 
+
+        return index_pos;
+    }
+
+*/
 
 
 }

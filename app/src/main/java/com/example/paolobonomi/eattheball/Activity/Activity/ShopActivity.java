@@ -28,7 +28,6 @@ public class ShopActivity extends AppCompatActivity {
     private ListView listShop;
     private ArrayList<ShopItem> items;
     private ShopAdapter adapter;
-    private DBAdapter db;
     private int totScores;
 
     @Override
