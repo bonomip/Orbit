@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //LAUNCH
+    <string name="app_name">Orbit</string>
+    <string name="tap_to_play">tap and play</string>
+
+    //GAME
+    <string name="score">Score: </string>
+
+    //PAUSE
+    <string name="settings">SETTINGS</string>
+    <string name="menu">EXIT</string>
+
+    //SETTINGS
+    <string name="calibrate">CALIBRATE</string>
+    <string name="sensitivity">Sensitivity</string>
+    <string name="change_orientation">FLIP SCREEN</string>
+    <string name="advanced_settings">Advanced</string>
+
+    //ADVANCED SETTINGS
+    <string name="showFPS">Show fps</string>
+    <string name="showScore">Show score</string>
+    <string name="showCombo">Show combo</string>
+    <string name="show24h">24-hour clock</string>
+
+    //NEW HIGHSCORE
+    <string name="new_best_score">NEW HIGH SCORE!</string>
+    <string name="insert_name">Insert name</string>
+    <string name="error_insert_name">Must contain only letters ( max 8 )</string>
+
+    //MENU
+    <string name="start">START</string>
+    <string name="shop">SHOP</string>
+    <string name="top_scores">HIGH SCORES</string>
+
+    //SHOP
+    <string name="tot_scores">Eat</string>
+    <string name="button_equip">Equip</string>
+    <string name="button_buy_sold">Sold</string>
+
+    //HIGHSCORE
+    <string name="table_head">HIGH SCORES</string>
+    <string name="table_hs_rank">Rank</string>
+    <string name="table_hs_score">Score</string>
+    <string name="table_hs_name">Name</string>
+    <string-array name="position">
+        <item>1ST</item>
+        <item>2ND</item>
+        <item>3RD</item>
+        <item>4TH</item>
+        <item>5TH</item>
+        <item>6TH</item>
+        <item>7TH</item>
+        <item>8TH</item>
+        <item>9TH</item>
+        <item>10TH</item>
+    </string-array>
+
+    //QUIT DIALOG
+    <string name="dialog_title">CAUTION!</string>
+    <string name="dialog_message">Are you sure to quit? All progress will be lost !</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    // SHOP DIALOG
+    <string name="buy_skin_title">ATTENTION!</string>
+    <string name="buy_skin_message">Confirm purchase?</string>
+</resources>

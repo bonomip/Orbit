@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/lightblue"
+    android:layout_centerInParent="true"
+    android:fadingEdge="horizontal|vertical"
+    android:padding="20dp"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent">
+
+    <LinearLayout android:id="@+id/title_panel"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="54dp">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical">
+
+            <TextView
+                android:text="@string/dialog_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:id="@+id/qg_dialog_title"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/content_panel"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:overScrollMode="never">
+                <TextView
+                    android:text="@string/dialog_message"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/qg_dialog_message"
+                    android:maxLines="3"
+                    android:textAlignment="textStart"
+                    android:layout_gravity="start"/>
+            </ScrollView>
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/button_panel"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="54dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:measureWithLargestChild="true">
+            <Button
+                android:text="@string/yes"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/qg_dialog_button_yes"
+                android:layout_weight="1"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored" />
+            <Button
+                android:text="@string/no"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/qg_dialog_button_no"
+                android:layout_weight="1"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

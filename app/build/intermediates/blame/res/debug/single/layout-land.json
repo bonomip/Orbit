@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/quit_game_dialog.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/quit_game_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/activity_shop.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/activity_shop.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/activity_launch.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/activity_launch.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/buy_skin_dialog.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/buy_skin_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/shop_list_item.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/shop_list_item.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/acitivty_high_scores.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/acitivty_high_scores.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/advanced_settings_dialog.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/advanced_settings_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/settings_dialog.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/settings_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/activity_main_game.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/activity_main_game.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/activity_new_high_score.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/activity_new_high_score.xml"
+    },
+    {
+        "merged": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/build/intermediates/res/merged/debug/layout-land/activity_main_menu.xml",
+        "source": "/Users/paolobonomi/Documents/androidworkspace/Orbit/app/src/main/res/layout-land/activity_main_menu.xml"
+    }
+]
